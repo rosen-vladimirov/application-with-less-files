@@ -29,3 +29,6 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Ignore app.css for testing purposes
+app.css
